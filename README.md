@@ -6,7 +6,7 @@
 
 #### -Make sure to change <YOUR API HERE>.
 
-![Home Page](assets/readme/img_1.png)
+![Home Page](assets/readme/img_2.png)
 
 
 
