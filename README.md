@@ -1,10 +1,10 @@
 # A QR application where you can send requests to your own APIs. (Flutter/Dart)
 
-## Before start :
+ Before start :
 
-#### -Run this command in the terminal to get the dependencies: 'flutter pub get'.
+ -Run this command in the terminal to get the dependencies: 'flutter pub get'.
 
-#### -Make sure to change ~YOUR API~.
+ -Make sure to change ~YOUR API~.
 
 ![Home Page](assets/readme/img_2.png)
 
